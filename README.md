@@ -1,4 +1,4 @@
-<h1>jogo com turtle</h1>
+<h1>Jogo com turtle</h1>
 
 <h2>Projeto do IGTI que eu refatorei.</h2>
 
